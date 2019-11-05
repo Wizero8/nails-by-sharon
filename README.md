@@ -1,2 +1,2 @@
 # nails-by-sharon
-Website for Nails by Sharon
+Personal Site for Sharon
